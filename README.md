@@ -10,7 +10,13 @@ Project1
 - pprint  
 ```
 
-All librariers were normal libraries, random ended up not being using however can be activated to randomize puzzle positions  
+All librariers were normal libraries, random ended up not being using however can be activated to randomize puzzle positions.
+
+Numpy was also not utilized and can be excluded. Future iterations should use numpy arrays instead of lists to increase runtime dramatically 
+
+Pprint was used to reshape/format lists
+
+Deepcopy was used in order to temporarily change states between moves 
 
 # Running Code  
 1) **Download files** and place all 3 in the same directory
