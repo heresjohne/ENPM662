@@ -14,7 +14,7 @@ All librariers were normal libraries, random ended up not being using however ca
 
 # Running Code  
 1) **Download files** and place all 3 in the same directory
-2) **Change Directory in cmd** to reflect where all downloaded files have been placed 
+2) **Change Directory in cmd** to reflect where all downloaded files have been placed (here we've named the directory 'Project-1'(
     ```
     cd ~/User/Project-1
     ```
