@@ -1,2 +1,3 @@
-# ENPM662
+# ENPM662 - Project 1
 Project1
+
